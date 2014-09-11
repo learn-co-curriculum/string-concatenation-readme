@@ -27,7 +27,7 @@ Example 1
 ```ruby
 artist = "Lou Bega"
 artist + " is most famous for 'Mambo No. 5'"
-# => "Lou Begais most famous for 'Mambo No. 5'"
+# => "Lou Bega is most famous for 'Mambo No. 5'"
 ```
 
 Example 2
