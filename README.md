@@ -29,7 +29,6 @@ artist = "Lou Bega"
 artist + " is most famous for 'Mambo No. 5'"
 # => "Lou Bega is most famous for 'Mambo No. 5'"
 ```
-
 Example 2
 ```ruby
 fact = "has sold 10 million albums worldwide"
@@ -45,3 +44,19 @@ artist + " was a was a Russian music duo"
 
 ## Incorporating Multiple Variables
 
+Example 1
+```ruby
+given_name = "DeAndre Cortez Way"
+stage_name = "Soulja Boy"
+"Ice-T has criticized " + given_name + ", better known as " + stage_name + ", for killing hip-hop."
+# => "Ice-T has criticized DeAndre Cortez Way, better known as Soulja Boy, for killing hip-hop."
+```
+Example 2
+```ruby
+band_name = "Crazy Town"
+song_name = "Butterfly"
+month = "November"
+year = "2000"
+band_name + " released their song " + song_name + " in " + month + " of " + year + "."
+# => "Crazy Town released their song Butterfly in November of 2000."
+```
