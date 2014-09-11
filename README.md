@@ -60,3 +60,22 @@ year = "2000"
 band_name + " released their song " + song_name + " in " + month + " of " + year + "."
 # => "Crazy Town released their song Butterfly in November of 2000."
 ```
+
+## Adding Characters to Strings
+
+The concat method, frequently just written as `<<`, changes strings by adding characters to the end.
+
+Example with Concat
+```ruby
+band = "Blink"
+band.concat("-182")
+band
+# => "Blink-182"
+```
+Same Example with `<<`
+```ruby
+band = "Blink"
+band << "-182"
+band
+# => "Blink-182"
+```
