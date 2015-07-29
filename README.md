@@ -1,12 +1,4 @@
----
-tags: readme, concatenation
-language: ruby
-resources: 0
-track: web development
-topic: ruby
-unit: string manipulation
-lesson: interpolation
----
+
 
 # String Concatenation
 
