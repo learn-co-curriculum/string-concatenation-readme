@@ -30,7 +30,7 @@ fact = "has sold 10 million albums worldwide"
 Example 3
 ```ruby
 artist = "t.A.T.u."
-artist + " was a was a Russian music duo"
+artist + " was a Russian music duo"
 # => "t.A.T.u. was a Russian music duo"
 ```
 
