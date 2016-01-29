@@ -72,4 +72,4 @@ band
 # => "Blink-182"
 ```
 
-<a href='https://learn.co/lessons/string-concatenation-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/string-concatenation-readme' title='String Concatenation'>String Concatenation</a> on Learn.co and start learning to code for free.</p>
